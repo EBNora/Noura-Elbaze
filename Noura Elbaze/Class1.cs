@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Noura_Elbaze
 {
-    class Class1
+    internal class Class1
     {
-        int = 0 , string = "agadir";
-         writeLine
-        
+        public static void Nora()
+        {
+            System.Windows.Forms.MessageBox.Show("Nora");
+        }
     }
 }
